@@ -18,4 +18,7 @@ This free consulting project uses Aspose.PDF to add a zigzag line and a border t
 ## Interested in Aspose free consulting project?
 [If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
 
+## This free consulting project is based on the following issue: 
+
+[I want to create zigzag line by using Aspose.Pdf](https://github.com/aspose-free-consulting/projects/issues/6)
 
