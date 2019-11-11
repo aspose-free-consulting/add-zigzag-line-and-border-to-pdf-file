@@ -7,7 +7,7 @@ You can also extend this project with additional features provided by Aspose.PDF
 * [Manipulating PDF files in code](https://docs.aspose.com/display/pdfjava/Working+with+Document+Conversion+-+DOM)
 * [Work with PDF Forms](https://docs.aspose.com/display/pdfjava/Working+with+Forms)
 * [Manage PDF Pages](https://docs.aspose.com/display/pdfjava/Working+with+Pages)
-* [Add Security & Signatures] (https://docs.aspose.com/display/pdfjava/Working+with+Security+and+Signatures)
+* [Add Security & Signatures](https://docs.aspose.com/display/pdfjava/Working+with+Security+and+Signatures)
 
 And many more features to extend your project. 
 
