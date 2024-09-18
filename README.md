@@ -32,5 +32,5 @@ If you have any questions about Aspose.Pdf or PDF manipulation programmatically 
 
 ## This free consulting project is based on the following issue: 
 
-[I want to create zigzag line by using Aspose.Pdf](https://github.com/aspose-free-consulting/projects/issues/6)
+I want to create zigzag line by using Aspose.Pdf: github.com/aspose-free-consulting/projects/issues/6
 
